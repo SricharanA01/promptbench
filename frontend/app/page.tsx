@@ -64,7 +64,7 @@ export default function Home() {
   const s={h:'100vh',bg:'#fff',c:'#202124',ff:"'Google Sans','Roboto',-apple-system,sans-serif"}
   return (
     <div style={{minHeight:s.h,background:s.bg,color:s.c,fontFamily:s.ff}}>
-      <style>{`@import url('https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&family=Roboto+Mono:wght@400;500&display=swap');*{box-sizing:border-box;margin:0;padding:0}textarea:focus{outline:none;border-color:#1a73e8!important;box-shadow:0 0 0 2px rgba(26,115,232,.15)!important}@keyframes spin{to{transform:rotate(360deg)}}`}</style>
+      
       <div style={{height:4,background:'linear-gradient(90deg,#4285f4 25%,#ea4335 25% 50%,#fbbc05 50% 75%,#34a853 75%)'}}/>
       <nav style={{display:'flex',alignItems:'center',padding:'0 24px',height:64,borderBottom:'1px solid #e8eaed',position:'sticky',top:0,background:'#fff',zIndex:100}}>
         <div style={{display:'flex',alignItems:'center',gap:8,marginRight:32}}>
