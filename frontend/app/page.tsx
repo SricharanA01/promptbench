@@ -282,7 +282,7 @@ export default function Home() {
       </div>
 
       <footer style={{ borderTop: '1px solid #e8eaed', padding: '24px 32px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginTop: 80, flexWrap: 'wrap', gap: 12 }}>
-        <span style={{ fontSize: 13, color: '#5f6368' }}>Built by Sricharan Adarasupally · University of Georgia CS</span>
+        <span style={{ fontSize: 13, color: '#5f6368' }}>Built by Sricharan Adarasupally </span>
         <div style={{ display: 'flex', gap: 20 }}>
           <a href="https://github.com/SricharanA01/promptbench" style={{ fontSize: 13, color: '#1a73e8', textDecoration: 'none' }}>GitHub</a>
           <a href="https://linkedin.com/in/sricharan-adarasupally" style={{ fontSize: 13, color: '#1a73e8', textDecoration: 'none' }}>LinkedIn</a>
